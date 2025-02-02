@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 
 💬 Ask me about ... Anything
 
-📫 How to reach me: ... email (engrarshadkhan5o5@gmail.com)
+📫 How to reach me: ... email (engrarshadkhan505@gmail.com)
 
 😄 Pronouns: ... he/him
