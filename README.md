@@ -1,4 +1,4 @@
-# Here is what i am working on 👋
+# Here is what I am working on 👋
 
 Here are some ideas to get you started:
 
