@@ -1,30 +1,31 @@
-👋 Hello, I'm Arshad Khan!                 
+👋 Hello, I'm Arshad Khan!
 
-🌟 Passionate about tech and building awesome apps    
+🌟 Passionate about tech and building awesome apps
 
-🔭 Currently working on:              
+🔭 Currently working on:
 
-Mobile App Development with Flutter                
- 
-Android App Development with Kotlin                   
+   . Mobile App Development with Flutter
 
-Artificial Intelligence projects                  
- 
-🤔 Looking for help with:                     
- 
-Android development (Kotlin)                   
-  
-Flutter apps (iOS & Android)                    
- 
-AI & Machine Learning                     
+   . Android App Development with Kotlin
 
-💬 Ask me about:                        
+   . Artificial Intelligence projects
 
-Anything related to mobile apps, AI, or technology            
+🤔 Looking for help with:
 
-📫 Get in touch: engrarshadkhan505@gmail.com             
+   . Android development (Kotlin)
+   
+   . Flutter apps (iOS & Android)
+   
+   . AI & Machine Learning
+   
+   
+💬 Ask me about:
 
-😄 Pronouns: he/him        
+   Anything related to mobile apps, AI, or technology
+   
+📫 Get in touch: engrarshadkhan505@gmail.com
 
-💻 Fun fact: I love combining creativity and code to solve real-world problems!       
+😄 Pronouns: he/him
+
+💻 Fun fact: I love combining creativity and code to solve real-world problems!    
 
