@@ -10,7 +10,6 @@
 🌱 I’m currently learning:
 - Advanced Flutter techniques
 - Machine Learning algorithms
-- Cloud computing
 
 💬 Ask me about:
 - Flutter & Kotlin development
@@ -24,4 +23,4 @@
 ⚡ Fun fact:
 - I love experimenting with new technologies and building innovative solutions.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrarshadkhan505&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshadkhan5&show_icons=true&hide_title=true)
