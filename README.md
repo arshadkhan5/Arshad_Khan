@@ -1,31 +1,27 @@
-👋 Hello, I'm Arshad Khan!
 
-🌟 Passionate about tech and building awesome apps
 
-🔭 Currently working on:
+## 👋 Hi, I'm Arshad Khan
 
-   . Mobile App Development with Flutter
+🔭 I’m currently working on:
+- Mobile App Development with Flutter
+- Android App Development with Kotlin
+- Artificial Intelligence projects
 
-   . Android App Development with Kotlin
+🌱 I’m currently learning:
+- Advanced Flutter techniques
+- Machine Learning algorithms
+- Cloud computing
 
-   . Artificial Intelligence projects
-
-🤔 Looking for help with:
-
-   . Android development (Kotlin)
-   
-   . Flutter apps (iOS & Android)
-   
-   . AI & Machine Learning
-   
-   
 💬 Ask me about:
+- Flutter & Kotlin development
+- AI & Machine Learning
+- Mobile app architecture
 
-   Anything related to mobile apps, AI, or technology
-   
-📫 Get in touch: engrarshadkhan505@gmail.com
+📫 How to reach me:
+- Email: [engrarshadkhan505@gmail.com](mailto:engrarshadkhan505@gmail.com)
+- LinkedIn: [linkedin.com/in/arshadkhan](https://www.linkedin.com/in/arshadkhan)
 
-😄 Pronouns: he/him
+⚡ Fun fact:
+- I love experimenting with new technologies and building innovative solutions.
 
-💻 Fun fact: I love combining creativity and code to solve real-world problems!    
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrarshadkhan505&show_icons=true&hide_title=true)
